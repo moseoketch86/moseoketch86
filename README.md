@@ -1,7 +1,7 @@
 - 👋 Hi, I’m moses 
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on javascript and python projects
+- 💞️ I’m looking to collaborate on javascript,java,c# and python projects
 
 
 <!---
